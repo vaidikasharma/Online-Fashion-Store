@@ -1,0 +1,14 @@
+.footer {
+    height: auto;
+    width: 100%;
+    background-color: #222;
+    text-align: center;
+    padding: 8px 0px;
+}
+.footer p {
+    color: white;
+}
+.footer a {
+    text-decoration: none;
+    color: #f7444e;
+}

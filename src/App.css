@@ -1,0 +1,32 @@
+
+.new{
+  color: blue;
+}
+ul{
+  background-color: blue;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+}
+ul li{
+  display: inline;
+  color: white;
+padding-left: 20px;
+line-height: 50px;
+}
+ul li a{
+  color:white;
+  text-decoration: none;
+}
+.active{
+  color: greenyellow;
+} 
+
+table, th, td{
+  border: 1px solid black !important
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}

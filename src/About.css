@@ -1,0 +1,29 @@
+.section2 .card {
+  color: white;
+  background-color: #002c3e;
+  padding: 70px 20px;
+  text-align: center;
+}
+.section3 {
+  height: auto;
+  width: 100%;
+  background-color: lightgray;
+  padding: 50px 0px;
+}
+.section3 .heading {
+  color: #002c3e;
+}
+.section3 .para {
+  font-size: 17px;
+}
+.section3 .button {
+  color: white;
+  background-color: rgb(220, 5, 5);
+  border: none;
+  padding: 8px 20px;
+}
+.section2 .main-heading {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+}
